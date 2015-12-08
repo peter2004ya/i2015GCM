@@ -2,6 +2,6 @@
     "mongodbUrl": "mongodb://ipeter2004ya:2ulxjudd@ds031347.mongolab.com:31347/20151208",
 
     "gcm": {
-        "apiKey": "AIzaSyDF3_v0vHI2bnIDfE4lVXvJU6AsqHUf3WA"
+         "apiKey": "AIzaSyDF3_v0vHI2bnIDfE4lVXvJU6AsqHUf3WA"
     }
 }
